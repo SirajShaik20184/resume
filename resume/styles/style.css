@@ -1,0 +1,50 @@
+header {
+  background-color: blue;
+  color: white;
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+}
+h1{
+background-color: blue;
+color: white;
+font-size: 30px;
+width: 100%;
+text-align: center;
+
+}
+img{
+  width: 50%;
+}
+.card{
+  background-color: skyblue;
+width: 30%;
+border-radius: 2px 2px 2px;
+box-shadow: 2px 2px 2px black;
+margin: 1%;
+text-align: center;
+}
+
+
+.mainDiv{
+  display: flex;
+width: 100%;
+  background-color: black;
+}
+.leftDiv{
+  width: 30%;
+  height: 25%;
+  background-color: grey;
+  border-radius: 3px solid;
+  box-shadow: 3px 3px 3px black;
+  text-align: center;
+
+
+}
+.rightDiv{
+ width: 69%;
+  background-color: skyblue;
+  border-radius: 3px solid;
+  box-shadow: 3px 3px 3px black;
+  text-align: center;
+}
